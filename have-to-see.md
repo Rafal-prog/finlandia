@@ -43,3 +43,6 @@ Pomnik Sibeliusa w Helsinkach *(Sibelius-monumentti)*
 [**Święty Mikołaj Baza** *Santa Claus Office*](https://santaclausoffice.com/)
 
 ## NordKapp (Norwegia)
+
+**Przylądek Północny**
+(http://www.visitnordkapp.net/)
