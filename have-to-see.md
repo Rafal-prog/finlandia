@@ -17,16 +17,21 @@ Pomnik Sibeliusa w Helsinkach *(Sibelius-monumentti)*
 ## Turku
 
 **Katedra w Turku** Turun tuomiokirkko 
+
  ![Katedra w Turku](turku.jpg)
+
 **Zamek w Turku** Turun linna
 ![Zamek w Turku](turku_zamek.jpg)
+
 **Świat Muminków** Muumimaailma
 ![Świat Muminków](swiat_muminkow.jpg)
 
 ## Oulu
 
 ***Toripolliisi Statue***
+
 ![Pomnik rosyjskiego żandarma](Toripolliisi.jpg)
+
 ***Katedra w Oulu*** [Oulun tuomiokirkko](https://www.oulunseurakunnat.fi/) 
 ![Katedra w Oulu](katedra_oulu.jpg)
 
@@ -34,6 +39,7 @@ Pomnik Sibeliusa w Helsinkach *(Sibelius-monumentti)*
 
 ### Rovaniemi
 [**Arktikum**](http://www.arktikum.fi/)
+
 [**Święty Mikołaj Baza** *Santa Claus Office*](https://santaclausoffice.com/)
 
 ## NordKapp (Norwegia)
